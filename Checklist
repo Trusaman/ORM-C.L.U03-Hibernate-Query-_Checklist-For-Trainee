@@ -1,0 +1,14 @@
+No	Checked Items	Assessment	Notes	Priority
+1. Hibernate Query
+ 	 Hibernate Query	 	 	 
+1	Hiểu về Hibernate Query? Các cách viết query?	 	 	Mandatory
+2	Hiểu về Native Query và thực hành?	 	 	Optional
+3	Hiểu HQL là gì? Quy tắc viết HQL?	 	 	Mandatory
+4	Biết cách viết HQL sử dụng tham số (parameters)?	 	 	Mandatory
+5	Có thể sử dụng HQL với Group By, Having và Join?	 	 	Mandatory
+6	Phân biệt và sử dụng được @NameQueries và @NameQuery?	 	 	Mandatory
+7	Có thể phân trang (Pagination Query) sử dụng HQL?	 	 	 
+ 	 Proxy Object	 	 	 
+8	Hiểu Proxy Object là gì và cơ chế hoạt động?	 	 	Mandatory
+9	Phân biệt được phương thức session.get() và session.load()?	 	 	Mandatory
+9	<Add more questions above this row if any>	 	 	 
